@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm currently working on a currency converter built with angular, which is also the tech framework that I am currently learning.
+Ask me about AWS file uploads or how I built my own authorization with Auth.js V5!
+
+Reach me at: Luke.sauls279@gmail.com
+
+
+
 <!--
 **lukesauls66/lukesauls66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
