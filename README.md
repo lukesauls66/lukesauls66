@@ -2,9 +2,8 @@
 
 I'm a passionate software engineer who loves building user-friendly web applications and solving real-world problems with clean and efficient code. I’m always eager to learn and explore new technologies.
 
-### 🚀 What I'm Currently Working On
-+ Currency Converter App: A project built with Angular as I dive into mastering this powerful framework.
-+ Exploring best practices for clean architecture and modular design in Angular applications.
+### 🚀 Current Project: Real Estate Agent SaaS Platform
++ I’m developing a SaaS platform that empowers real estate agents to create personalized, branded websites. Through a subscription model, the platform offers agents tools for lead generation, client engagement, and brand development. The solution is designed to help agents efficiently manage their online presence and capture high-quality leads.
 
 ### 🛠 My Skills and Expertise
 + Frontend Development: Next.js, React, Redux Toolkit, HTML/CSS, Tailwind CSS
